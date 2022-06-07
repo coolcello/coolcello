@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**coolcello/coolcello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eleanor Anderson here!
 
-Here are some ideas to get you started:
+### I enjoy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-reading
+-writing
+-painting
+-STEM
+-learning
+
+### Some cool things about me
+
+-I won a baking compition in 3rd grade; I beat all of the adults and kids.
+-I play nine different instruments, cello, viola, piano, voice, trombone, steel tonge drum, kazoo, harmonica, and melodica.
+-Sports I play include, soccer, volleyball, track, swim, tennis, and others!
