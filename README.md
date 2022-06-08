@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-Eleanor Anderson here!
+Eleanor here!
 
 ### I enjoy
+
 
 
 -reading
@@ -17,6 +18,7 @@ Eleanor Anderson here!
 -learning
 
 ### Some cool things about me
+
 
 
 -I won a baking compition in 3rd grade; I beat all of the adults and kids.
